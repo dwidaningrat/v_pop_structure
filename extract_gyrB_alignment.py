@@ -13,7 +13,7 @@ alignment_file = "/x/core_alignment.fasta"
 alignment = AlignIO.read(alignment_file, "fasta")
 
 # Extract sequences for each housekeeping gene and save in a new alignment file
-output_file = "/well/aanensen/users/euj896/viridans/accession/pirate_viridansonly/gyrB/gyrB.fasta"
+output_file = "/x/gyrB/gyrB.fasta"
 with open(output_file, "w") as out_f:
     for record in alignment:
         extracted_seq = ""
