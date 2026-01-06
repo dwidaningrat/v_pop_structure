@@ -6,14 +6,14 @@ from Bio.Seq import Seq
 
 # Define genes and their positions (1-based indexing)
 gene_positions = {
-    "pflA": (126631, 127503),
-    "ppaC": (127504, 128439),
-    "sodA": (201502, 202113),
-    "rpoB": (250657, 254382),
-    "tuf": (394624, 395820),
-    "guaA": (413872, 415482),
-    "map": (486682, 487542),
-    "pyk": (523168, 524724)
+    "geneA": (x, x),
+    "geneB": (x, x),
+    "geneC": (x, x),
+    "geneD": (x, x),
+    "geneE": (x, x),
+    "geneF": (x, x),
+    "geneG": (x, x),
+    "geneH": (x, x)
 }
 
 # Load core gene alignment
