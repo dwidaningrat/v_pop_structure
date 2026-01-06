@@ -21,7 +21,7 @@ alignment_file = "/x/core_alignment.fasta"
 alignment = AlignIO.read(alignment_file, "fasta")
 
 # Extract sequences for each gene and save in a new alignment file
-output_file = "x/multiple_x_alignment.fasta"
+output_file = "/x/x/multiple_x_alignment.fasta"
 with open(output_file, "w") as out_f:
     for record in alignment:
         extracted_seq = ""
