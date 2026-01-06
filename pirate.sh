@@ -13,7 +13,7 @@ conda activate myproject
 
 mkdir -p results_pirate
 
-INPUT_DIRECTORY="/x/x/"
+INPUT_DIRECTORY="/x/x/assemblies/"
 OUTPUT_DIRECTORY="x/x/"
 
 PIRATE -i $INPUT_DIRECTORY -o $OUTPUT_DIRECTORY -a -r -t 24
