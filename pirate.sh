@@ -14,6 +14,6 @@ conda activate myproject
 mkdir -p results_pirate
 
 INPUT_DIRECTORY="/x/x/annotations/"
-OUTPUT_DIRECTORY="x/x/"
+OUTPUT_DIRECTORY="/x/x/"
 
 PIRATE -i $INPUT_DIRECTORY -o $OUTPUT_DIRECTORY -a -r -t 24
