@@ -5,7 +5,7 @@ from Bio.SeqRecord import SeqRecord
 from Bio.Seq import Seq
 
 gene_positions = {
-    "gyrB": (308548, 310500)
+    "gyrB": (x, x)
 }
 
 # Load the concatenated core gene alignment
