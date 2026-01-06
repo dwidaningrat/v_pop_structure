@@ -4,9 +4,9 @@ from Bio import SeqIO
 from Bio.Blast import NCBIXML
 
 #setup
-GENOMES_DIR = "/well/aanensen/users/euj896/viridans/accession/assemblies_nonpneumo_cps/assemblies_mitis_subclusterI"
-QUERY_NUCLEOTIDES = "/well/aanensen/users/euj896/viridans/accession/pneumococcal_cps-reference_genebank/cps_genes_faa/all_cps_genes.faa"
-OUTPUT_TSV = "capsular_genes_blast_all_genomes_additional_everything.tsv"
+GENOMES_DIR = "/x/assemblies"
+QUERY_NUCLEOTIDES = "/x/all_cps_genes.faa"
+OUTPUT_TSV = "capsular_genes_blast_results.tsv"
 BLASTDB_DIR = "blastdbs"
 TMP_DIR = "tmp"
 
