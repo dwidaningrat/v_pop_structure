@@ -4,9 +4,9 @@ from Bio import SeqIO
 from Bio.Blast import NCBIXML
 
 #setup
-GENOMES_DIR = "/x/x"
-QUERY_NUCLEOTIDES = "/x/x.fasta"
-OUTPUT_TSV = "/x/x.tsv"
+GENOMES_DIR = "x/x"
+QUERY_NUCLEOTIDES = "x.fasta"
+OUTPUT_TSV = "x.tsv"
 BLASTDB_DIR = "blastdbs"
 TMP_DIR = "tmp"
 

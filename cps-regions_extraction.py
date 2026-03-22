@@ -3,10 +3,10 @@ import os
 from Bio import SeqIO
 
 #Setup
-csv_file = "/x/x.csv"
-fasta_dir = "/x/x/fasta/"
-gff_dir = "/x/x/gff/"
-output_fasta_dir = "/x/all_fasta_output/"
+csv_file = "x.csv"
+fasta_dir = "/x/x/"
+gff_dir = "/x/x/"
+output_fasta_dir = "x/all_fasta_outpu/"
 output_gff_dir = "/x/all_gff_output/"
 
 #Directories
