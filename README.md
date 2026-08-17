@@ -90,6 +90,4 @@ The analyses were designed to:
 
 ## Author
 
-**Dwi Daningrat**
-
-DPhil research repository.
+**Wa Ode Dwi Daningrat**
