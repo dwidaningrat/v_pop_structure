@@ -33,13 +33,14 @@ Examples include:
 
 ## Reproducibility
 
-Scripts have been retained to document the computational and analytical steps used during the DPhil project, from processing genomic data through to downstream pangenome and phylogenetic analyses.
+Scripts have been retained to document the computational and analytical steps used, from processing genomic data through to downstream pangenome and phylogenetic analyses.
 
 Many of the shell scripts act as wrappers for individual stages of the workflow, while Python and R scripts perform data processing, analysis, and summarisation of results.
 
 ## Research context
 
 This work formed part of my DPhil research into the genomic diversity and population structure of viridans group streptococci.
+
 # Population Structure of the Viridans Group Streptococci: Pangenome and Phylogenetic Analyses
 
 This repository contains the scripts and analytical workflows developed for my DPhil thesis investigating the population structure of viridans group streptococci through comparative genomics, pangenome analysis, and phylogenetic approaches.
